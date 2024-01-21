@@ -1,0 +1,2 @@
+Eliminare anche le foto dalla cache quando si elimina un viaggio
+Visionare bene tutto sia per ipad che telefono
